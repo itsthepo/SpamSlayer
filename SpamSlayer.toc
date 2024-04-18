@@ -1,5 +1,5 @@
 ## Interface: 90005
-## Title: Chat Filter
+## Title: SpamSlayer
 ## Notes: Filters chat for spam messages.
 ## Author: Po
 ## Version: 0.1
