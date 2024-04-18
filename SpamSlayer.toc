@@ -1,0 +1,10 @@
+## Interface: 90005
+## Title: Chat Filter
+## Notes: Filters chat for spam messages.
+## Author: Po
+## Version: 0.1
+## X-Category: Interface Enhancements
+## DefaultState: Enabled
+## SavedVariables: ChatFilter_Blacklist, ChatFilter_HourlyBlockedCount, ChatFilter_MonthlyBlockedCount
+SpamSlayer.lua
+
